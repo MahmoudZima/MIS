@@ -1,0 +1,12 @@
+D:\MIS\MIS.DAL\bin\Debug\net8.0\MIS.DAL.deps.json
+D:\MIS\MIS.DAL\bin\Debug\net8.0\MIS.DAL.dll
+D:\MIS\MIS.DAL\bin\Debug\net8.0\MIS.DAL.pdb
+D:\MIS\MIS.DAL\obj\Debug\net8.0\MIS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MIS\MIS.DAL\obj\Debug\net8.0\MIS.DAL.AssemblyInfoInputs.cache
+D:\MIS\MIS.DAL\obj\Debug\net8.0\MIS.DAL.AssemblyInfo.cs
+D:\MIS\MIS.DAL\obj\Debug\net8.0\MIS.DAL.csproj.CoreCompileInputs.cache
+D:\MIS\MIS.DAL\obj\Debug\net8.0\MIS.DAL.sourcelink.json
+D:\MIS\MIS.DAL\obj\Debug\net8.0\MIS.DAL.dll
+D:\MIS\MIS.DAL\obj\Debug\net8.0\refint\MIS.DAL.dll
+D:\MIS\MIS.DAL\obj\Debug\net8.0\MIS.DAL.pdb
+D:\MIS\MIS.DAL\obj\Debug\net8.0\ref\MIS.DAL.dll
